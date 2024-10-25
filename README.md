@@ -48,3 +48,9 @@ sudo docker run -it --name deep_web_container deep_web_alpine
 
 📖 Usage
 Once the container is running, it will automatically start the Tor service and launch the Lynx browser, pointing to The Hidden Wiki link provided by default in the dockerfile.
+
+
+## 📄 Additional Instructions
+
+For more detailed setup instructions and advanced usage, check out the [Extra Instructions](extrainstructions.md).
+
